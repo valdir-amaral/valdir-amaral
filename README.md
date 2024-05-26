@@ -32,7 +32,7 @@
 <br>
     
 > [!IMPORTANT]
-> MY CURRENT GOAL IS TO LEARN **ANGULAR** AND **SPRING**.
+> MY CURRENT GOAL IS TO LEARN **ANGULAR**.
 
 
 ### Take some poetry dose from ChatGPT:
