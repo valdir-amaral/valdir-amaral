@@ -39,5 +39,14 @@
 
 > *"Buscar a perfeição é cultivar a pureza de uma criança dentro de nós, onde a simplicidade é a verdadeira obra-prima da vida"*
 
+### LeetCode Profile
+[![ValdirAmaral's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=valdir-amaral)](https://leetcode.com/u/valdir-amaral/)
+
+<br>
+<img src="https://profile-counter.glitch.me/{valdir-amamral}/count.svg" alt="Valdir Amaral :: Visitor's Count" />
+☝️ Visitas ☝️
+<br>
+
+
 
 
